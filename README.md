@@ -14,7 +14,7 @@ There's also a practiseExercises folder which also contains 5 other folders whic
 
 Hey 👋, I left a small screengrab below, showing the application in action!
 
-<img src = "other/demo.png" width="1050" height="550">
+<img src = "other/demo.png" width="750" height="450">
 
 ## Stack
 
